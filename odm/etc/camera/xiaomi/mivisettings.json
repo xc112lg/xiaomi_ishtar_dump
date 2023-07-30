@@ -1,0 +1,7 @@
+{
+    "offlinedebugmask" : 0,
+    "UsePropPriority" : false,
+    "Soc" : "QCOM",
+    "OpenMiaPipelinePrunerDump" : false
+}
+
