@@ -1,1 +1,0 @@
-keyboard.doNotWakeByDefault = 1
