@@ -1,1 +1,0 @@
-libmisys_jni.xiaomi.so
