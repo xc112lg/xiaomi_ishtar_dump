@@ -1,1 +1,0 @@
-/odm/lib64/camera/aon_front.pb
