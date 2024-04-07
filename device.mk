@@ -115,3 +115,4 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/ishtar/ishtar-vendor.mk)
+$(call inherit-product,device/oneplus/sm8550-common/common.mk)
